@@ -1,18 +1,15 @@
-//Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple,
-// such as, “Hello Eric, would you like to learn some Python today?”
+//task2
 var personame = "Eric";
 console.log("Hello! Eric, would you like to eat some python today?");
  //task3
-//Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase,
-// uppercase, and titlecase.
 var personname = "Allama Iqbal";
 console.log("lowercase", personname.toLowerCase());
 console.log("uppercase", personname.toUpperCase());
 console.log("titlecase", personname.replace('/\b\w\g,c=> c.toUpperCase()'));
 //task4
-//  let quote:string ="A person who never made a mistake"
-//  let author:string ="Albert Einstain Once said,";
-// console.log(author+ " " +quote);ode 
+ let quote:string ="A person who never made a mistake"
+ let author:string ="Albert Einstain Once said,";
+console.log(author+ " " +quote);
 //task5
 let famousPerson: string ="Albert Einstain once said";
 let message: string = "A person who never made a mistake";
